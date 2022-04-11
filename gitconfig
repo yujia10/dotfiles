@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yujiagu1010@gmail.com
+	name = Yujia Gu
